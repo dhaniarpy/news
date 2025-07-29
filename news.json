@@ -1,406 +1,406 @@
 [
   {
     "date": "2025-08-02",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Average Hourly Earnings m/m"
   },
   {
     "date": "2025-08-02",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Non-Farm Employment Change"
   },
   {
     "date": "2025-08-02",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Rate"
   },
   {
     "date": "2025-08-02",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "ISM Manufacturing PMI"
   },
   {
     "date": "2025-08-06",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "ISM Services PMI"
   },
   {
     "date": "2025-08-08",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-08-13",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core CPI m/m"
   },
   {
     "date": "2025-08-13",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "CPI m/m"
   },
   {
     "date": "2025-08-13",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "CPI y/y"
   },
   {
     "date": "2025-08-15",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core PPI m/m"
   },
   {
     "date": "2025-08-15",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "PPI m/m"
   },
   {
     "date": "2025-08-15",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-08-16",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core Retail Sales m/m"
   },
   {
     "date": "2025-08-16",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "Prelim UoM Consumer Sentiment"
   },
   {
     "date": "2025-08-16",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "Prelim UoM Inflation Expectations"
   },
   {
     "date": "2025-08-21",
-    "time": "15:00",
+    "time": "19:00",
     "currency": "USD",
     "impact": "high",
     "event": "FOMC Meeting Minutes"
   },
   {
     "date": "2025-08-22",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-08-22",
-    "time": "10:45",
+    "time": "14:45",
     "currency": "USD",
     "impact": "high",
     "event": "Flash Manufacturing PMI"
   },
   {
     "date": "2025-08-22",
-    "time": "10:45",
+    "time": "14:45",
     "currency": "USD",
     "impact": "high",
     "event": "Flash Services PMI"
   },
   {
     "date": "2025-08-29",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Prelim GDP q/q"
   },
   {
     "date": "2025-08-29",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-08-30",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core PCE Price Index m/m"
   },
   {
     "date": "2025-09-03",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "ISM Manufacturing PMI"
   },
   {
     "date": "2025-09-04",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "JOLTS Job Openings"
   },
   {
     "date": "2025-09-05",
-    "time": "09:15",
+    "time": "13:15",
     "currency": "USD",
     "impact": "high",
     "event": "ADP Non-Farm Employment Change"
   },
   {
     "date": "2025-09-05",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-09-05",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "ISM Services PMI"
   },
   {
     "date": "2025-09-06",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Average Hourly Earnings m/m"
   },
   {
     "date": "2025-09-06",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Non-Farm Employment Change"
   },
   {
     "date": "2025-09-06",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Rate"
   },
   {
     "date": "2025-09-11",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core PPI m/m"
   },
   {
     "date": "2025-09-11",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "PPI m/m"
   },
   {
     "date": "2025-09-12",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core CPI m/m"
   },
   {
     "date": "2025-09-12",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "CPI m/m"
   },
   {
     "date": "2025-09-12",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "CPI y/y"
   },
   {
     "date": "2025-09-12",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-09-13",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "Prelim UoM Consumer Sentiment"
   },
   {
     "date": "2025-09-13",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "Prelim UoM Inflation Expectations"
   },
   {
     "date": "2025-09-17",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core Retail Sales m/m"
   },
   {
     "date": "2025-09-17",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Retail Sales m/m"
   },
   {
     "date": "2025-09-18",
-    "time": "15:00",
+    "time": "19:00",
     "currency": "USD",
     "impact": "high",
     "event": "Federal Funds Rate"
   },
   {
     "date": "2025-09-18",
-    "time": "15:00",
+    "time": "19:00",
     "currency": "USD",
     "impact": "high",
     "event": "FOMC Economic Projections"
   },
   {
     "date": "2025-09-18",
-    "time": "15:00",
+    "time": "19:00",
     "currency": "USD",
     "impact": "high",
     "event": "FOMC Statement"
   },
   {
     "date": "2025-09-18",
-    "time": "15:30",
+    "time": "19:30",
     "currency": "USD",
     "impact": "high",
     "event": "FOMC Press Conference"
   },
   {
     "date": "2025-09-19",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-09-24",
-    "time": "10:45",
+    "time": "14:45",
     "currency": "USD",
     "impact": "high",
     "event": "Flash Manufacturing PMI"
   },
   {
     "date": "2025-09-24",
-    "time": "10:45",
+    "time": "14:45",
     "currency": "USD",
     "impact": "high",
     "event": "Flash Services PMI"
   },
   {
     "date": "2025-09-26",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Final GDP q/q"
   },
   {
     "date": "2025-09-26",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-09-27",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Core PCE Price Index m/m"
   },
   {
     "date": "2025-10-01",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "JOLTS Job Openings"
   },
   {
     "date": "2025-10-02",
-    "time": "09:15",
+    "time": "13:15",
     "currency": "USD",
     "impact": "high",
     "event": "ADP Non-Farm Employment Change"
   },
   {
     "date": "2025-10-02",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "ISM Manufacturing PMI"
   },
   {
     "date": "2025-10-03",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Claims"
   },
   {
     "date": "2025-10-04",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Average Hourly Earnings m/m"
   },
   {
     "date": "2025-10-04",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Non-Farm Employment Change"
   },
   {
     "date": "2025-10-04",
-    "time": "09:30",
+    "time": "13:30",
     "currency": "USD",
     "impact": "high",
     "event": "Unemployment Rate"
   },
   {
     "date": "2025-10-04",
-    "time": "11:00",
+    "time": "15:00",
     "currency": "USD",
     "impact": "high",
     "event": "ISM Services PMI"
