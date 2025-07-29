@@ -1,5 +1,155 @@
 [
   {
+    "time": "2025-05-01 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Unemployment Claims"
+  },
+  {
+    "time": "2025-05-01 21:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "ISM Manufacturing PMI"
+  },
+  {
+    "time": "2025-05-02 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Average Hourly Earnings m/m"
+  },
+  {
+    "time": "2025-05-02 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Non-Farm Employment Change"
+  },
+  {
+    "time": "2025-05-02 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Unemployment Rate"
+  },
+  {
+    "time": "2025-05-05 21:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "ISM Services PMI"
+  },
+  {
+    "time": "2025-05-08 01:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Federal Funds Rate"
+  },
+  {
+    "time": "2025-05-08 01:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "FOMC Statement"
+  },
+  {
+    "time": "2025-05-08 01:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "FOMC Press Conference"
+  },
+  {
+    "time": "2025-05-08 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Unemployment Claims"
+  },
+  {
+    "time": "2025-05-08 21:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "President Trump Speaks"
+  },
+  {
+    "time": "2025-05-13 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Core CPI m/m"
+  },
+  {
+    "time": "2025-05-13 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "CPI m/m"
+  },
+  {
+    "time": "2025-05-13 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "CPI y/y"
+  },
+  {
+    "time": "2025-05-15 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Core PPI m/m"
+  },
+  {
+    "time": "2025-05-15 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Core Retail Sales m/m"
+  },
+  {
+    "time": "2025-05-15 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "PPI m/m"
+  },
+  {
+    "time": "2025-05-15 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Retail Sales m/m"
+  },
+  {
+    "time": "2025-05-15 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Unemployment Claims"
+  },
+  {
+    "time": "2025-05-15 19:40:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Fed Chair Powell Speaks"
+  },
+  {
+    "time": "2025-05-16 21:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "time": "2025-05-16 21:00:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Prelim UoM Inflation Expectations"
+  },
+  {
+    "time": "2025-05-22 19:30:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Unemployment Claims"
+  },
+  {
+    "time": "2025-05-22 20:45:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Flash Manufacturing PMI"
+  },
+  {
+    "time": "2025-05-22 20:45:00",
+    "symbol": "USD",
+    "impact": "high",
+    "event": "Flash Services PMI"
+  },
+  {
     "symbol": "USD",
     "impact": "high",
     "time": "2025-07-29 21:00:00",
