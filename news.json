@@ -1,0 +1,38 @@
+[
+  {
+    "time": "2025-08-01 12:30",
+    "currency": "USD",
+    "impact": "high",
+    "event": "Non-Farm Employment Change, Unemployment Rate, Average Hourly Earnings"
+  },
+  {
+    "time": "2025-08-01 14:00",
+    "currency": "USD",
+    "impact": "high",
+    "event": "ISM Manufacturing PMI"
+  },
+  {
+    "time": "2025-08-07 18:00",
+    "currency": "USD",
+    "impact": "high",
+    "event": "FOMC Statement, Federal Funds Rate"
+  },
+  {
+    "time": "2025-08-07 18:30",
+    "currency": "USD",
+    "impact": "high",
+    "event": "FOMC Press Conference"
+  },
+  {
+    "time": "2025-08-14 12:30",
+    "currency": "USD",
+    "impact": "high",
+    "event": "Consumer Price Index (CPI) m/m, Core CPI m/m"
+  },
+  {
+    "time": "2025-08-28 12:30",
+    "currency": "USD",
+    "impact": "high",
+    "event": "Advance GDP q/q, Core PCE Price Index m/m, Unemployment Claims"
+  }
+]
