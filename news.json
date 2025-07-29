@@ -2,6 +2,60 @@
   {
     "symbol": "USD",
     "impact": "high",
+    "time": "2025-07-29 21:00:00",
+    "event": "JOLTS Job Openings"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-30 19:15:00",
+    "event": "ADP Non-Farm Employment Change"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-30 19:30:00",
+    "event": "Advance GDP q/q"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-31 01:00:00",
+    "event": "Federal Funds Rate"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-31 01:00:00",
+    "event": "FOMC Statement"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-31 01:30:00",
+    "event": "FOMC Press Conference"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-31 19:30:00",
+    "event": "Core PCE Price Index m/m"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-31 19:30:00",
+    "event": "Employment Cost Index q/q"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
+    "time": "2025-07-31 19:30:00",
+    "event": "Unemployment Claims"
+  },
+  {
+    "symbol": "USD",
+    "impact": "high",
     "time": "2025-08-01 19:30:00",
     "event": "Average Hourly Earnings m/m"
   },
