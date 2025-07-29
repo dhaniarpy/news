@@ -1,212 +1,182 @@
 [
   {
-    "date": "2025-08-01",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-01 19:30:00",
     "event": "Average Hourly Earnings m/m"
   },
   {
-    "date": "2025-08-01",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-01 19:30:00",
     "event": "Non-Farm Employment Change"
   },
   {
-    "date": "2025-08-01",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-01 19:30:00",
     "event": "Unemployment Rate"
   },
   {
-    "date": "2025-08-01",
-    "time": "21:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-01 21:00:00",
     "event": "ISM Manufacturing PMI"
   },
   {
-    "date": "2025-08-05",
-    "time": "21:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-05 21:00:00",
     "event": "ISM Services PMI"
   },
   {
-    "date": "2025-08-07",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-07 19:30:00",
     "event": "Unemployment Claims"
   },
   {
-    "date": "2025-08-12",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-12 19:30:00",
     "event": "Core CPI m/m"
   },
   {
-    "date": "2025-08-12",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-12 19:30:00",
     "event": "CPI m/m"
   },
   {
-    "date": "2025-08-12",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-12 19:30:00",
     "event": "CPI y/y"
   },
   {
-    "date": "2025-08-14",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-14 19:30:00",
     "event": "Core PPI m/m"
   },
   {
-    "date": "2025-08-14",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-14 19:30:00",
     "event": "PPI m/m"
   },
   {
-    "date": "2025-08-14",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-14 19:30:00",
     "event": "Unemployment Claims"
   },
   {
-    "date": "2025-08-15",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-15 19:30:00",
     "event": "Core Retail Sales m/m"
   },
   {
-    "date": "2025-08-15",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-15 19:30:00",
     "event": "Retail Sales m/m"
   },
   {
-    "date": "2025-08-15",
-    "time": "21:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-15 21:00:00",
     "event": "Prelim UoM Consumer Sentiment"
   },
   {
-    "date": "2025-08-15",
-    "time": "21:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-15 21:00:00",
     "event": "Prelim UoM Inflation Expectations"
   },
   {
-    "date": "2025-08-21",
-    "time": "01:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-21 01:00:00",
     "event": "FOMC Meeting Minutes"
   },
   {
-    "date": "2025-08-21",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-21 19:30:00",
     "event": "Unemployment Claims"
   },
   {
-    "date": "2025-08-21",
-    "time": "20:45",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-21 20:45:00",
     "event": "Flash Manufacturing PMI"
   },
   {
-    "date": "2025-08-21",
-    "time": "20:45",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-21 20:45:00",
     "event": "Flash Services PMI"
   },
   {
-    "date": "2025-08-27",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-27 19:30:00",
     "event": "Prelim GDP q/q"
   },
   {
-    "date": "2025-08-28",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-28 19:30:00",
     "event": "Unemployment Claims"
   },
   {
-    "date": "2025-08-29",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-08-29 19:30:00",
     "event": "Core PCE Price Index m/m"
   },
   {
-    "date": "2025-09-02",
-    "time": "21:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-02 21:00:00",
     "event": "ISM Manufacturing PMI"
   },
   {
-    "date": "2025-09-03",
-    "time": "21:00",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-03 21:00:00",
     "event": "JOLTS Job Openings"
   },
   {
-    "date": "2025-09-04",
-    "time": "19:15",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-04 19:15:00",
     "event": "ADP Non-Farm Employment Change"
   },
   {
-    "date": "2025-09-04",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-04 19:30:00",
     "event": "Unemployment Claims"
   },
   {
-    "date": "2025-09-05",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-05 19:30:00",
     "event": "Average Hourly Earnings m/m"
   },
   {
-    "date": "2025-09-05",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-05 19:30:00",
     "event": "Non-Farm Employment Change"
   },
   {
-    "date": "2025-09-05",
-    "time": "19:30",
-    "currency": "USD",
+    "symbol": "USD",
     "impact": "high",
+    "time": "2025-09-05 19:30:00",
     "event": "Unemployment Rate"
   }
 ]
